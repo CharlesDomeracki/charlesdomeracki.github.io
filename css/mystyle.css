@@ -1,7 +1,14 @@
 .jumbotron {
-    background-image: url(img/kongskullisland.jpg);
+    background-image: url(/home/mark/charlesdomeracki.github.io/img/kongskullisland.jpg);
     background-repeat: no-repeat;
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover;
+    background-size: cover; 
 }
+
+body {
+    background-color: gray;
+}
+
+
+
