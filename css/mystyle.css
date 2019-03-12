@@ -1,7 +1,6 @@
 .jumbotron {
     background-image: url(/img/bg-masthead.jpg);
     background-repeat: no-repeat; 
-    background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; 
 }
