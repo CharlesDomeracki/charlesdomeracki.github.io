@@ -80,7 +80,7 @@ p {
 }
 
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-  color: #215375;
+  color: #FFFFFF;
 }
 ::-moz-placeholder { /* Firefox 19+ */
   color: #215375;
