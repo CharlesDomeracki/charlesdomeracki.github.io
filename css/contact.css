@@ -83,13 +83,13 @@ p {
   color: #FFFFFF;
 }
 ::-moz-placeholder { /* Firefox 19+ */
-  color: #215375;
+  color: #FFFFFF;
 }
 :-ms-input-placeholder { /* IE 10+ */
-  color: #215375;
+  color: #FFFFFF;
 }
 :-moz-placeholder { /* Firefox 18- */
-  color: #215375;
+  color: #FFFFFF;
 }
 
 input:focus, textarea:focus {
